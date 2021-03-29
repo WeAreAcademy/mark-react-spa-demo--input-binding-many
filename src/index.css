@@ -1,0 +1,34 @@
+body {
+  margin: 5px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+body {
+  margin: 10px;
+  padding: 10px;
+}
+
+h1,
+p {
+  font-family: Lato;
+}
+
+input {
+  display: block;
+  padding: 10px;
+  margin: 10px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px;
+}
